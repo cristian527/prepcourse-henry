@@ -1,2 +1,2 @@
-# prepcourse-henry
-Repositorio de prueba del módulo 2 de henry
+Prueba de como crear un repositorio y clonarlo 
+
